@@ -4,8 +4,7 @@ This is my personalized [LazyVim](https://github.com/LazyVim/LazyVim) setup, fin
 
 ## 📁 Project Structure
 
-```
-
+```bash
 .
 ├── init.lua                  # Entry point for Neovim
 ├── lazy-lock.json            # Plugin lockfile
@@ -21,16 +20,15 @@ This is my personalized [LazyVim](https://github.com/LazyVim/LazyVim) setup, fin
 │       └── example.lua       # Sample plugin config
 ├── README.md                 # You're here!
 └── stylua.toml               # StyLua configuration
-
-````
+```
 
 ## 🚀 Getting Started
 
 1. **Install Neovim (v0.9+ recommended)**
 2. **Clone this repo:**
    ```bash
-   git clone https://github.com/yourusername/your-lazyvim-config ~/.config/nvim
-````
+   git clone https://github.com/BadRat-in/lazyvim-config.git ~/.config/nvim
+   ```
 
 3. **Launch Neovim:**
 
