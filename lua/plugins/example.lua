@@ -193,5 +193,6 @@ return {
         "flake8",
       },
     },
+    version = "*",
   },
 }
